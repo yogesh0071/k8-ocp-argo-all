@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: public.ecr.aws/nginx/nginx:1.21
+        image: yogesh0071/cont-i-img
         ports:
         - name: http
           containerPort: 80
