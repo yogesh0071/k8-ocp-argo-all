@@ -13,7 +13,7 @@ spec:
   project: argo-learnings
   source:
     path: resources/nginxapp
-    repoURL: https://github.com/cbagade/k8-ocp-argo-all
+    repoURL: https://github.com/yogesh0071/k8-ocp-argo-all
     targetRevision: code
   syncPolicy:
     automated:
